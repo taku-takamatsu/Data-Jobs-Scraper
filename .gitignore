@@ -1,0 +1,4 @@
+service_account.json
+*.pyc
+__pycache__
+secret.py
