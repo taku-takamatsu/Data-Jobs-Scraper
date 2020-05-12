@@ -2,3 +2,4 @@ service_account.json
 *.pyc
 __pycache__
 secret.py
+.DS_Store
